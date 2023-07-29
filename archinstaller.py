@@ -19,7 +19,7 @@ def particiones(option):
     if repeat == ("Y"or"n"):
         particiones()
     else:
-        pass()
+        pass
 
 def format():
     os.system("lsblk")
